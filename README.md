@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I’m currently learning **GSAP for motion design, Motion for performant animations, and Docker for containerization**.
+- 🌱 I’m currently learning **GSAP & Motion for animation, and Docker for containerization**.
 - 🔭 I’m working on various projects, including **open-source contributions focused on enhancing user experience and web performance**.
 - 👯 I’m looking to collaborate on **innovative projects leveraging modern web technologies and best practices in user experience and accessibility**.
 - 💬 Ask me about anything related to **front-end development, web accessibility, and modern animation techniques**.
