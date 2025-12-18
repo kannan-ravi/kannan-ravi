@@ -4,25 +4,45 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I’m currently learning **Web Application Security**.
-- 🔭 I’m working on various projects, including **open-source contributions focused on enhancing user experience and web performance**.
-- 👯 I’m looking to collaborate on **innovative projects leveraging modern web technologies and best practices in user experience and accessibility**.
-- 💬 Ask me about anything related to **front-end development, web accessibility, and modern animation techniques**.
-- 📫 How to reach me: [kannanravindran00kr@gmail.com](mailto:kannanravindran00kr@gmail.com)
-- ⚡ Fun fact: I love coding and writing about web development.
+- 👨‍💻 Frontend developer who also dabbles in full stack.
+- 🌱 Currently diving into **Web Application Security** — always something new to learn.
+- 🔭 Building **KanvaUI** and contributing to open source.
+- 👯 Open to collaborations and full-time opportunities — let's connect!
+- 💬 Happy to chat about **front-end development, accessibility, or animations**.
+- 📫 Reach me at: [kannanravindran00kr@gmail.com](mailto:kannanravindran00kr@gmail.com)
+- ⚡ Fun fact: I watch anime and read way too much manga.
 
-## Recent Writings
+## Tech Stacks
 
-- [Mastering Object-Oriented Programming with JavaScript](https://medium.com/@kannanravi/mastering-object-oriented-programming-with-javascript-2a9bc9ef9362) 📰 on **Medium**
-- [Understanding of Deep Copy and Shallow Copy in Javascript](https://medium.com/@kannanravi/understanding-of-deep-copy-and-shallow-copy-in-javascript-4d08d9bbfac4) 📰 on **Medium**
+[![My Skills](https://skills.syvixor.com/api/icons?perline=14&i=javascript,typescript,reactjs,nextjs,nodejs,expressjs,vite,tailwindcss,materialui,bootstrap,jest,playwright,mysql,mongodb,supabase,pnpm,npm,yarn,docker,vercel,netlify,render,git,github,gitlab,visualstudiocode,postman,figma)](https://skills.syvixor.com)
 
 ## GitHub Stats
 
-![Kannan Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kannan-ravi&show_icons=true&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true" />
+</picture>
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kannan-ravi&layout=compact&theme=radical)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannan-ravi&show_icons=true&theme=transparent&hide_border=true&layout=compact" />
+</picture>
 
 ## Connect with Me
 
